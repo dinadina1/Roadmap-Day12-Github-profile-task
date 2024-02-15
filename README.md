@@ -1,6 +1,10 @@
-<h2>Github Profile Page</h2>
-<p></p>
-<h3>Deployed URL</h3>
-
-<h3>Screenshot</h3>
+<h1>Github Profile Page</h1>
+<p>This is Github Profile page design.</p>
+<p>Its represents some section alignment.</p>
+<p>I used to Html, CSS, Bootstrap for developing this page with Responsive.</p>
+<p>It will take 100% width in mobiles.</p>
+<p>I attached the Screenshot below.</p><br>
+<h2>Deployed URL</h2>
+https://github-profilepages.netlify.app/<br>
+<h2>Screenshot</h2>
 <img src="./images/screenshot.png" alt="screenshot">
