@@ -1,6 +1,6 @@
 <h1>Github Profile Page</h1>
-<p>This is Github Profile page design.</p>
-<p>Its represents some section alignment.</p>
+<p>This webpage is Github Profile page design.</p>
+<p>Its represents some section alignment for arranging content.</p>
 <p>I used to Html, CSS, Bootstrap for developing this page with Responsive.</p>
 <p>It will take 100% width in mobiles.</p>
 <p>I attached the Screenshot below.</p><br>
