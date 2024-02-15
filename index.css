@@ -1,0 +1,72 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+main{
+    background-color: #c2c4bb;
+}
+.fa-github{
+    color:white;
+}
+.header{
+    display: flex;
+    background-color: #365050;
+    padding: 8px;
+}
+.header-icon{
+    width: 10%;
+    text-align: left;
+    padding: 10px 10px 10px 20px;
+}
+.header-title{
+    width: 90%;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+.profile-card{
+    height:400px;
+    width: 90%;
+    border: 1px solid black;
+    background-color: #3a3838;
+    text-align: center;
+    border-radius: 15px;
+}
+.sec-1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 50px;
+}
+.sec-2-item1{
+    height: 40px;
+    width: 70%;
+    padding: 7px 5px;
+    margin:0 15% 7% 15%;
+    border-radius: 10px;
+    background-color: #3a3838;
+}
+span{
+    color: rgb(226, 218, 218);
+    margin: 10px 0 10px 10px;
+    font-weight: 400;
+}
+.sec-2{
+    padding: 50px;
+}
+.sec-2-item{
+    background-color: #3a3838;
+    width: 80%;
+    height: 120px;
+    border-radius: 15px;
+    margin: 0 10% 5% 10%;
+}
+.sec-2-items{
+    text-align: center;
+}
+.sec-2-item-2{
+    background-color: #3a3838;
+    width: 100%;
+    height: 120px;
+    margin: 6% 0 0 0;
+    border-radius: 15px;
+}
